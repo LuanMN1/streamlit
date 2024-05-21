@@ -1,0 +1,6 @@
+#requirements.txt
+pandas
+openpyxl
+matplotlib
+numpy
+datetime
